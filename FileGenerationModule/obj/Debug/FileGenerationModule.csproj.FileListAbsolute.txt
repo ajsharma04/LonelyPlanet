@@ -1,0 +1,12 @@
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\ClassLibrary1\bin\Debug\FileGenerationModule.dll
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\ClassLibrary1\bin\Debug\FileGenerationModule.pdb
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\ClassLibrary1\obj\Debug\FileGenerationModule.dll
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\ClassLibrary1\obj\Debug\FileGenerationModule.pdb
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\ClassLibrary1\obj\Debug\FileGenerationModule.resources.Resources.resources
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\ClassLibrary1\obj\Debug\FileGenerationModule.csproj.GenerateResource.Cache
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\FileGenerationModule\bin\Debug\FileGenerationModule.dll
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\FileGenerationModule\bin\Debug\FileGenerationModule.pdb
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\FileGenerationModule\obj\Debug\FileGenerationModule.resources.Resources.resources
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\FileGenerationModule\obj\Debug\FileGenerationModule.csproj.GenerateResource.Cache
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\FileGenerationModule\obj\Debug\FileGenerationModule.dll
+C:\Users\ajay\Documents\Visual Studio 2010\Projects\WebSite4\FileGenerationModule\obj\Debug\FileGenerationModule.pdb
